@@ -1,15 +1,15 @@
 
-html,body { 
+body { 
   font-family: 'Nunito Sans', sans-serif;
   margin:0px; 
   padding:0px 
+
 }
 nav {
   margin-top: 0px;
   padding: 24px;
   text-align: right;
   font-family: Raleway;
-  
 }
 #nav-3 {
   padding-top: 60px;
@@ -38,7 +38,8 @@ nav {
   padding: 24px 10px;
 }
 .link-33{
-  padding: 20px 20px 20px 20px;
+  border-radius: 70px;
+  padding: 10px;
   color: #3693d6 ;
   text-decoration: none;
   float: right;
@@ -58,10 +59,10 @@ span {
 header{
   background-repeat: no-repeat;
   margin:0;
-  background-image: url('img/ines-JPEG.jpg');
-  /*background-color: #3693d6;*/
+  background-image: url('img/W_W.jpg');
   background-size: 100%;
   min-height: 500px;
+  min-width: 800px;
 }
 
 img{
@@ -213,7 +214,6 @@ h2{
   -moz-transition: .2s;
 }
 .social ul li {
-
   display: inline-block;
   padding-right: 5px !important;
 }
